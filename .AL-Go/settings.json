@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
   "country": "us",
-  "artifact": "////27/us",
+  "artifact": "//sandbox/27.0/us/Latest",
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
